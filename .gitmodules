@@ -7,3 +7,6 @@
 [submodule "processingpy_pureyaml"]
 	path = processingpy_pureyaml
 	url = https://github.com/jeremydouglass/processingpy_pureyaml
+[submodule "processingpy_jinja2"]
+	path = processingpy_jinja2
+	url = https://github.com/jeremydouglass/processingpy_jinja2.git

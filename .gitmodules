@@ -1,6 +1,6 @@
 [submodule "using_unittest"]
-	path = using_unittest
+	path = processingpy_unittest
 	url = https://github.com/jeremydouglass/using_unittest
 [submodule "blank_processingpy_sketch"]
-	path = blank_processingpy_sketch
+	path = processingpy_blank_sketch
 	url = https://github.com/jeremydouglass/blank_processingpy_sketch

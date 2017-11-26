@@ -13,3 +13,6 @@
 [submodule "processingpy_pyparsing"]
 	path = processingpy_pyparsing
 	url = https://github.com/jeremydouglass/processingpy_pyparsing.git
+[submodule "processingpy_pyparsing_more"]
+	path = processingpy_pyparsing_more
+	url = https://github.com/jeremydouglass/processingpy_pyparsing_more.git

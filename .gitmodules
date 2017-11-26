@@ -10,3 +10,6 @@
 [submodule "processingpy_jinja2"]
 	path = processingpy_jinja2
 	url = https://github.com/jeremydouglass/processingpy_jinja2.git
+[submodule "processingpy_pyparsing"]
+	path = processingpy_pyparsing
+	url = https://github.com/jeremydouglass/processingpy_pyparsing.git

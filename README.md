@@ -16,7 +16,7 @@ If not already installed, you must:
 2. In Processing, install Python Mode:  
    -  `Processing > Tools > Add Tool > Modes > Python Mode`
 
-## Using the example sketch
+## Using example sketches
 
 1. Download or clone the sketch repository.
 2. Launch the example in Processing by double-clicking the `.pyde` file.
@@ -41,6 +41,14 @@ The new sketch can now use `import mymodule` to access the module.
 3. In Processing, create a new Python Mode sketch.
 
 The new sketch can now use `import mymodule` to access the module even without a local copy in its directory.
+
+## Creating new sketches
+
+The blank sketch template offers a new blank Processing.py sketch under version control. Clone / fork / download it -- or use the `new_processingpy_sketch.sh` shell script to quickly create a new blank Processing.py sketch under git version control with a unique name. Usage from the command line:
+
+	new_processingpy_sketch.sh MySketchFolderName
+
+This will create a new git repo `MySketchFolderName` and populate it with a sketch template `MySketchFolderName.pyde`.
 
 ----------
 
